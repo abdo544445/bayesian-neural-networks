@@ -27,8 +27,8 @@ We evaluate these approaches on two datasets:
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/bayesian-nn-uncertainty.git
-cd bayesian-nn-uncertainty
+https://github.com/abdo544445/bayesian-neural-networks.git
+cd bayesian-neural-networks
 
 # Create a virtual environment (optional but recommended)
 python -m venv venv
